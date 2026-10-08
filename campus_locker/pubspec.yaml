@@ -1,0 +1,18 @@
+name: campus_locker
+description: Smart Campus Drop-Off Locker - user app (CampusEdge Solutions)
+publish_to: none
+version: 1.0.0
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  campus_shared:
+    path: ../campus_shared
+  firebase_core: any
+  firebase_auth: any
+  cloud_firestore: any
+  mobile_scanner: any
+  window_manager: ^0.4.3
+flutter:
+  uses-material-design: true

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086490324015",
+    "project_id": "campus-locker",
+    "storage_bucket": "campus-locker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086490324015:android:690d6b9bb24938cad62ada",
+        "android_client_info": {
+          "package_name": "com.example.campus_locker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOS4i-OiSnu70zK6m7AZ6899VcABTTdaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086490324015:android:ffe6f2b11453e663d62ada",
+        "android_client_info": {
+          "package_name": "com.example.locker_display"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOS4i-OiSnu70zK6m7AZ6899VcABTTdaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

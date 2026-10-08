@@ -1,0 +1,16 @@
+name: locker_display
+description: Smart Campus Drop-Off Locker - touchscreen display app (prototype)
+publish_to: none
+version: 1.0.0
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  campus_shared:
+    path: ../campus_shared
+  firebase_core: any
+  cloud_firestore: any
+  qr_flutter: ^4.1.0
+flutter:
+  uses-material-design: true

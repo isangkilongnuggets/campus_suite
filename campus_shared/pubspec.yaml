@@ -1,0 +1,11 @@
+name: campus_shared
+description: Shared models and Firestore logic for the Campus Locker apps
+publish_to: none
+version: 1.0.0
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: any
+  firebase_core: any
